@@ -1,0 +1,12 @@
+com/example/Library/service/BookService.class
+com/example/Library/service/AuthorService.class
+com/example/Library/entity/Author.class
+com/example/Library/entity/Book.class
+com/example/Library/LibraryApplication.class
+com/example/Library/service/impl/BookServiceImpl.class
+com/example/Library/repository/AuthorRepository.class
+com/example/Library/controller/AuthorController.class
+com/example/Library/repository/AuthorBookRepository.class
+com/example/Library/repository/BookRepository.class
+com/example/Library/service/impl/AuthorServiceImpl.class
+com/example/Library/entity/AuthorBook.class
